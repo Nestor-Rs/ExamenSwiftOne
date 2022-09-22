@@ -13,6 +13,7 @@
 		80636F3328DBDF310054A603 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 80636F3128DBDF310054A603 /* Main.storyboard */; };
 		80636F3528DBDF330054A603 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 80636F3428DBDF330054A603 /* Assets.xcassets */; };
 		80636F3828DBDF330054A603 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 80636F3628DBDF330054A603 /* LaunchScreen.storyboard */; };
+		80636F4028DBEA270054A603 /* HomeViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 80636F3F28DBEA270054A603 /* HomeViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		80636F3428DBDF330054A603 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		80636F3728DBDF330054A603 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		80636F3928DBDF330054A603 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		80636F3F28DBEA270054A603 /* HomeViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +65,7 @@
 				80636F3428DBDF330054A603 /* Assets.xcassets */,
 				80636F3628DBDF330054A603 /* LaunchScreen.storyboard */,
 				80636F3928DBDF330054A603 /* Info.plist */,
+				80636F3F28DBEA270054A603 /* HomeViewController.swift */,
 			);
 			path = ExamenOne;
 			sourceTree = "<group>";
@@ -141,6 +144,7 @@
 				80636F3028DBDF310054A603 /* ViewController.swift in Sources */,
 				80636F2C28DBDF310054A603 /* AppDelegate.swift in Sources */,
 				80636F2E28DBDF310054A603 /* SceneDelegate.swift in Sources */,
+				80636F4028DBEA270054A603 /* HomeViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
